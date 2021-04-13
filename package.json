@@ -1,0 +1,14 @@
+{
+  "name": "wbdv-sp21-01-nandish-muruegshi-server-node",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nandish murugeshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
